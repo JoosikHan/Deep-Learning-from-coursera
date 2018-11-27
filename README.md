@@ -9,7 +9,7 @@
 + [x] Week3 - Shallow neural networks
 + [x] Week4 - Deep Neural Networks
 
-![Neural Networks and Deep Learning](https://github.com/JoosikHan/Deep-Learning-from-coursera/blob/master/Certificate/Neural%20Networks%20and%20Deep%20Learning.pdf)
+![Neural Networks and Deep Learning](https://github.com/JoosikHan/Deep-Learning-from-coursera/blob/master/Certificate/Neural%20Networks%20and%20Deep%20Learning.png)
 
 ## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 1. Week1 - Practical aspects of Deep Learning
