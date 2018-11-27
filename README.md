@@ -4,10 +4,10 @@
 * This course consist of five courses as follows.
 
 ## Course 1. Neural Networks and Deep Learning
-[x] Week1 - Introduction to deep learning
-[ ] Week2 - Neural Networks Basics
-[ ] Week3 - Shallow neural networks
-[ ] Week4 - Deep Neural Networks
++ [x] Week1 - Introduction to deep learning
++ [ ] Week2 - Neural Networks Basics
++ [ ] Week3 - Shallow neural networks
++ [ ] Week4 - Deep Neural Networks
 
 ## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 1. Week1 - Practical aspects of Deep Learning
