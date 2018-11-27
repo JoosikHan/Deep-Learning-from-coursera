@@ -1,11 +1,15 @@
-# Deep-Learning-from-coursera
-* This is my programming assignment and quiz of *Andrew Ng's* special couse **"Deep Learning Specialization"**.
+# Deep Learning Specialization on Coursera
+* This is my programming assignment and quiz of *Andrew Ng'(http://www.andrewng.org/)s* special couse **"Deep Learning Specialization"**.
+
 * This course consists of five courses:
     * Neural Networks and Deep Learning
     * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
     * Structuring Machine Learning Projects
     * Convolutional Neural Networks
     * Sequence Models
+    
+# Introduce
+* I've been studying DeepLearning a little bit since long ago, but I have not knowledge in deep. So I have heard this course of specialization.
 
 ## Course 1. Neural Networks and Deep Learning
 1. Week1 - Introduction to deep learning
