@@ -14,9 +14,8 @@
     
 2. Which of these is the "Logistic Loss"?
 
-    - Check [here](https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_logistic_regression).
+    cross-entropy loss function. [click](https://en.wikipedia.org/wiki/Cross_entropy)
     
-    Note: We are using a cross-entropy loss function.
     
 3. Suppose img is a (32,32,3) array, representing a 32x32 image with 3 color channels red, green and blue. How do you reshape this into a column vector?
 
