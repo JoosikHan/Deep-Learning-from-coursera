@@ -1,13 +1,13 @@
 # Introduce
 * I've been studying DeepLearning a little bit since long ago, but I have not knowledge in deep. So I have heard this course of specialization.
 * This repo is my programming assignment and quiz of [*Andrew Ng's*](http://www.andrewng.org/) special couse **"Deep Learning Specialization"**.
-* This course consist of five courses:
+* This course consist of five courses as follows.
 
 ## Course 1. Neural Networks and Deep Learning
-1. Week1 - Introduction to deep learning
-2. Week2 - Neural Networks Basics
-3. Week3 - Shallow neural networks
-4. Week4 - Deep Neural Networks
+1. Week1 - Introduction to deep learning [ ]
+2. Week2 - Neural Networks Basics [ ]
+3. Week3 - Shallow neural networks [ ]
+4. Week4 - Deep Neural Networks[ ]
 
 ## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 1. Week1 - Practical aspects of Deep Learning
