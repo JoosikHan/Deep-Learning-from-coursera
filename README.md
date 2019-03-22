@@ -1,5 +1,7 @@
 # Introduce
-* I've been studying DeepLearning a little bit since long ago, but I have not knowledge in deep. So I have heard this course of specialization.
+* I've been studying Deep Learning since a few years ago. but I started studying and stopped again, and repeated.
+because I wanted to do using the DL for project(action recognition for training in military) at my company, We started development for the project, but we stopped in three months. It was no profit for company.
+anyway my knowledge was shallow. So I have heard this course of Andrew Ng in Cousera.
 * This repo is my programming assignment and quiz of [*Andrew Ng's*](http://www.andrewng.org/) special couse **"Deep Learning Specialization"**.
 * This course consist of five courses as follows.
 
