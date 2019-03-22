@@ -1,6 +1,6 @@
 # Introduce
 * I've been studying Deep Learning since a few years ago. but I started studying and stopped again, and repeated.
-<br>because I wanted to do using the DL for project(action recognition for training in military) at my company.<br> We started development for the project, but we stopped in three months. It was no profit for my company. <br>Anyway my knowledge was shallow. So I have heard this course of Andrew Ng on Cousera.
+<br>because I wanted to do using the DL for project at my company.<br> We started development for the project(action recognition for training in military), but we stopped in three months. It was not profit for my company. <br>Anyway my knowledge was shallow. So I have heard this course of Andrew Ng on Cousera.
 * This repo is my programming assignment and quiz of [*Andrew Ng's*](http://www.andrewng.org/) special couse **"Deep Learning Specialization"**.
 * This course consist of five courses as follows.
 
