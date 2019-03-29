@@ -19,7 +19,8 @@
             - Setting up your optimization problem
 + [x] Week2 - Optimization algorithms
 + [x] Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
-![Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/JoosikHan/Deep-Learning-from-coursera/blob/master/Certificate/Neural%20Networks%20and%20Deep%20Learning.png)
+
+![Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/JoosikHan/Deep-Learning-from-coursera/blob/master/Certificate/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.png)
 
 ## Course 3. Structuring Machine Learning Projects
 1. Week1 - Introduction to ML Strategy
