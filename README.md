@@ -23,10 +23,10 @@
 ![Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/JoosikHan/Deep-Learning-from-coursera/blob/master/Certificate/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.png)
 
 ## Course 3. Structuring Machine Learning Projects
-1. Week1 - Introduction to ML Strategy
++ [x] Week1 - Introduction to ML Strategy
          - Setting up your goal
          - Comparing to human-level performance
-2. Week2 - ML Strategy (2)
++ [x] Week2 - ML Strategy (2)
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
