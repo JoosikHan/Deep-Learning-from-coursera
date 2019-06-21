@@ -31,7 +31,9 @@
          - Mismatched training and dev/test set
          - Learning from multiple tasks
          - End-to-end deep learning
-         
+ 
+ ![Structuring Machine Learning Projects](https://github.com/JoosikHan/Deep-Learning-from-coursera/blob/master/Certificate/Structuring%20Machine%20Learning%20Projects.png)
+ 
  ## Course 4. Convolutional Neural Networks
  1. Week1 - Foundations of Convolutional Neural Networks
  2. Week2 - Deep convolutional models: case studies
